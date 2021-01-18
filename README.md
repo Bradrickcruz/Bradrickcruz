@@ -7,6 +7,6 @@ Sou casado com a artista [Gabriela Cruz](https://www.instagram.com/gabby_rcruz/)
 No meu tempo livre costumo ver animes, séries e jogar Valorant e Paladins com meus amigos.
 
 ### Minhas Redes sociais
-[Meu Facebook](https://www.facebook.com/BryanRickCruz/)
-[Meu Instagram](https://www.instagram.com/sr_bryancruz/)
-[Meu Linkedin](https://www.linkedin.com/in/bryan-h-cruz-souza/)
+[Facebook](https://www.facebook.com/BryanRickCruz/)
+[Instagram](https://www.instagram.com/sr_bryancruz/)
+[Linkedin](https://www.linkedin.com/in/bryan-h-cruz-souza/)
