@@ -1,10 +1,10 @@
-### Opa, eaí! :upside_down_face:
+### Opa, eaí. Beleza? :upside_down_face:
 
-Meu nome é Bryan Henrique Cruz Souza, Sou de Guaíba, RS, Brasil. Sou apaixonado por tecnologia e recentemente iniciei minha carreira de Dev Front-end oficialmente na [Tchê Delivery](https://www.tchedelivery.com.br). Todo dia tento aprender algo novo, e amo ensinar aos meus colegas e amigos algo novo que aprendi, pois sinto que assim tanto eu quanto eles vamos crescendo juntos.
+Meu nome é Bryan, Sou de Guaíba, RS, Brasil. Sou apaixonado por tecnologia e recentemente iniciei minha carreira de Dev Fullstack oficialmente na [Tchê Delivery](https://www.tchedelivery.com.br). Todo dia tento aprender algo novo, e amo ensinar aos meus colegas e amigos algo novo que aprendi, pois sinto que assim tanto eu quanto eles vamos crescendo juntos.
 
-Sou casado com a artista [Gabriela Cruz](https://www.instagram.com/gabby_rcruz/) e tenho uma filha vira-lata chamada Yui.
+Sou casado com a artista [Gabriela Cruz](https://www.instagram.com/gabby_rcruz/) e tenho três filhas de outra raça chamadas Kitty, Yui e Sabine.
 
-No meu tempo livre costumo ver animes, series e jogar Valorant e Paladins com amigos.
+No meu tempo livre costumo ver animes, séries e jogar Valorant e Paladins com meus amigos.
 
 ### Minhas Redes sociais
 [Meu Facebook](https://www.facebook.com/BryanRickCruz/)
